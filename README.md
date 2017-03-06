@@ -225,8 +225,7 @@ and the PDDL parser from the [Fast Downward](http://www.fast-downward.org) distr
 
 
 * <a name="ref-geffner-fstrips-2000">Geffner, H. (2000)</a>,
-[_Functional STRIPS: A more flexible lan-
-guage for planning and problem solving_](http://www.tecn.upf.es/~hgeffner/).
+[_Functional STRIPS: A more flexible language for planning and problem solving_](http://www.tecn.upf.es/~hgeffner/).
 In Minker, J., ed., Logic-Based Artificial Intelligence. Kluwer. 187–205.
 
 
